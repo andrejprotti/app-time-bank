@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeCardMan</string>
+    <string name="yes">Sí</string>
+    <string name="no">no</string>
+</resources>

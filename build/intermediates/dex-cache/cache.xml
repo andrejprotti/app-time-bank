@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/protti/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.3.0/e1707f3752463c5d240f427240a54762d7b60474/butterknife-annotations-8.3.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e1707f3752463c5d240f427240a54762d7b60474">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.3.0_49fe3cea1ec7d8534fdb2a35246a56feb9716eb0/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c023123868d0250a9350a89ef4ff38d100c72f52/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.github.rey5137/material/1.2.4/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8419191d25f4105772fc16b55a005a270cb4d4c8">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.rey5137-material-1.2.4_180d9040c8680703e879e74a1c5320e785426056/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/1.2.0/5e4042f9e0d39e0d01d4a8661d01e24995b2cbef/realm-annotations-1.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5e4042f9e0d39e0d01d4a8661d01e24995b2cbef">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-1.2.0_259c74767f169b0b6fa5f6fd7b78c9d001184d99/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d677f228c5edc46504a9c85499c9ecb551ad163f/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9009f3cf7ca030fbef27a814a3844649ff4458d1/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_edc63155eed54ba9224866c9956b069bb20705e5/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_984d55c5a17e22f32923b109df5b64a765328a3d/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_70ec0657df973ab5f3e500a4a9d317df743adf1f/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3349cac3f9b33041b3074bf7f557505b1190af21/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_4812ff35b2c8ad0b3047caba2c45e1d89e92f812/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_08cf9750e7b1c2cd544a0e704cadbdde14e7199d/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/io.realm/realm-android-library/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="15a3e65c92d3cde64c725dba8d590a1123d2d213">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-1.2.0_847fff0eb06607f216773759a936fe3813064b36/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9fc69c9eb208228b7feef1d3108ef28a16cc3abf">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.3.0_e0d194071ee1cb3c5daacea2d88332b291241661/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.4/1c295b462f16702ebe720bbb08f62e1ba80da41b/joda-time-2.9.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.9.4_55e0583958dc38220dbc5f22555cdb510147027e/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_8ceb49f6fee51eaa8a89c24fb51cc7025bc6718f/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="99a117e153a2fa7fa29f275ef26fd5afa05ea06a">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a44717f898617a741ae463b6f2a1794cd6077986/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.1_6b244088098b37dbee668dd25d88d69f20e18d26/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_843dd9c22d93183aa5b48b2367c59e3b03b1f875/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_22273899fd056386ec52dd164c26ab7b3e59bb3a/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_112ffb8f81dbce7389cf479e4f5172bcff83ab47/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_a11027c2d59e7896845fed41531225f2ed19512a/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_30dc1da5e5a7aec045b052816cc9d586025e676f/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="591c49dfdeab4fdb0bd1351632a0d8beb989d186">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b545559ab9f897acc941b1bb3197cbeaf330730/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_d0a89a81a8bc52d5b66db06671828023148adbe9/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.bluelinelabs/conductor/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="73c7fc57c0e4ce7df1838ead693078169855cc26">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.bluelinelabs-conductor-2.0.1_64ef0497a6b7c614e393db6bad18a1c9576bfa5a/classes.dex" />
+    </item>
+    <item
+        jar="/home/protti/dev/time-card/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/protti/dev/time-card/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_4ff67fded085dc644420fc9281ed3f8fe44c55f2/classes.dex" />
+    </item>
+
+</items>
